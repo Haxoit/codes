@@ -1,4 +1,5 @@
 #include<iostream>
+//Start
 using namespace std;
 int main()
 {
@@ -42,5 +43,6 @@ int main()
         cout<<endl;
         temp=temp->address;
     }
+    //terminated
     return 0;
 }
